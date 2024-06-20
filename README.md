@@ -20,7 +20,7 @@ Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
- According to [AWS](https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20(SDLC,expectations%20during%20production%20and%20beyond.) this are the different stages of life cycle
+ According to [AWS](https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20SDLC,expectations%20during%20production%20and%20beyond) this are the different stages of life cycle
 
 ### Plan
 * This phase include tasks like cost benefit analysis and resource estimation.
@@ -39,9 +39,9 @@ Agile vs. Waterfall Models:
 ### Maintain
 * In this phase, among other tasks, the team fixes bugs, resolve customer issues and manages the software
 
-[Agile] [Model](https://www.javatpoint.com/software-engineering-agile-model) This development approach is based on iterative development. It breaks tasks into smaller iterations , do not directly involve long term planning.
+[Agile Model](https://www.javatpoint.com/software-engineering-agile-model) This development approach is based on iterative development. It breaks tasks into smaller iterations , do not directly involve long term planning.
 
-[Waterfall] [Model](https://www.javatpoint.com/software-engineering-waterfall-model) This model has five phases: Requirements analysis and specification, design, implementation, and unit testing, integration and system testing, and operation and maintenance. The steps always follow in this order and do not overlap
+[Waterfall Model](https://www.javatpoint.com/software-engineering-waterfall-model) This model has five phases: Requirements analysis and specification, design, implementation, and unit testing, integration and system testing, and operation and maintenance. The steps always follow in this order and do not overlap
 
 
 
