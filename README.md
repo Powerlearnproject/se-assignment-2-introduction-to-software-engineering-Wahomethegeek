@@ -8,8 +8,13 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
+    This is a branch of computer science that deals with the    design, development, testing, and maintenance of software  applications.
+
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+
+    In Software engineering process, most effort goes into  buildig new designs and features. Whereas in SDLC    development may be a less structured process that involves     writing , testing and deploying the software.
+
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
