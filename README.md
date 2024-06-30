@@ -8,43 +8,11 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
-    This is a branch of computer science that deals with the  design, development, testing, and maintenance of software  applications.
-
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
-
-    In Software engineering process, most effort goes into  buildig new designs and features. 
-     Whereas in SDLC development may be a less structured process that involves  writing , testing and deploying the software.
-
-
+ 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
-
- According to [AWS](https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20SDLC,expectations%20during%20production%20and%20beyond) this are the different stages of life cycle
-
-### Plan
-* This phase include tasks like cost benefit analysis and resource estimation.
-
-### Design
-* Software engineers analyze requirements and identify the best solutions to the software
-
-### Implement
-
-* The development team codes the product. They analyze the requirements to identify smaller coding tasks.
-
-### Deploy
-
-* When teams develop software, the code and test on a different copy of the software than the one they have access to.
-
-### Maintain
-* In this phase, among other tasks, the team fixes bugs, resolve customer issues and manages the software
-
-[Agile Model](https://www.javatpoint.com/software-engineering-agile-model) This development approach is based on iterative development. It breaks tasks into smaller iterations , do not directly involve long term planning.
-
-[Waterfall Model](https://www.javatpoint.com/software-engineering-waterfall-model) This model has five phases: Requirements analysis and specification, design, implementation, and unit testing, integration and system testing, and operation and maintenance. The steps always follow in this order and do not overlap
-
-
-
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
